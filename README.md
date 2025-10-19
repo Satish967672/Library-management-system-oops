@@ -25,7 +25,7 @@ The system allows a librarian or user to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Language:** Python  
 - **Concepts:** Object-Oriented Programming (OOP)  
 - **Optional:** File handling or database for data storage  
