@@ -45,7 +45,7 @@ To automate library operations and demonstrate how **OOP principles** can be app
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 **Satish Kumar**
 
 ---
